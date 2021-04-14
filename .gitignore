@@ -2,3 +2,5 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints
 resources/combined_data
+code/ETL2.ipynb
+code/model_testing2.ipynb
